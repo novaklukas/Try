@@ -1,3 +1,7 @@
+// Generates Magic Matrix by Brute Force
+
+
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
